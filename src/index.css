@@ -1,0 +1,18 @@
+@tailwind base;
+body{
+  @apply text-base
+}
+
+@tailwind components;
+@tailwind utilities;
+
+
+
+td{
+  vertical-align: top;
+  padding: 1rem;
+}
+tr{
+  @apply shadow-sm bg-white
+}
+.bg-shopee{background: linear-gradient(-180deg,#f53d2d,#f63);}
