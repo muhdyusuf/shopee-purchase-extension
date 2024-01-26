@@ -7,8 +7,6 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
@@ -51,8 +49,6 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -96,8 +92,8 @@ The Shoppe Purchase Tracker is a convenient browser extension designed to stream
 
 ##### Installing Extension on Chrome 
 1. **Download Extension:**
-   - Visit the GitHub page.
-   - Download the extension as a ZIP file.
+   - Visit https://github.com/muhdyusuf/shopee-purchase-tracker/releases/tag/v1.0.
+   - Click Extension.zip on .
 
 2. **Extract ZIP:**
    - Unzip the downloaded file.
@@ -109,13 +105,14 @@ The Shoppe Purchase Tracker is a convenient browser extension designed to stream
 4. **Load Extension:**
    - Click "Load unpacked."
    - Select the extracted folder.
-   - Select dist folder.
+   - Select the dist folder.
 
 5. **Confirm Installation:**
    - Enable the extension.
 
 6. **Verify and Use:**
    - Open shoppe with account logged in.
+   - Click extension icon on the top right(chrome) and click Shopee Purchase Tracker extension from the list.
    - Confirm the extension is working.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -131,33 +128,6 @@ The Shoppe Purchase Tracker is a convenient browser extension designed to stream
 - [ ] Publish extension to Chrome Web Store 
 
 See the [open issues](https://github.com/muhdyusuf/shopee-purchase-tracker/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
