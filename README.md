@@ -16,7 +16,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/muhdyusuf/shopee-purchase-tracker">
-    <img src="/dist/assets/icon.png" alt="Logo" width="80" height="80">
+    <img src="./public/images/icon.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Shopee Purchase Tracker</h3>
@@ -62,7 +62,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Shopee purchase tracker][product-screenshot]](https://example.com)
+[![Shopee purchase tracker][product-screenshot]]()
 
 The Shoppe Purchase Tracker is a convenient browser extension designed to streamline your shopping experience on Shoppe. This extension fetches the items you've bought on Shoppe and calculates the total amount spent, providing you with a quick and organized overview of your purchases.
 
@@ -109,13 +109,13 @@ The Shoppe Purchase Tracker is a convenient browser extension designed to stream
 4. **Load Extension:**
    - Click "Load unpacked."
    - Select the extracted folder.
-   - Select public folder.
+   - Select dist folder.
 
 5. **Confirm Installation:**
    - Enable the extension.
 
 6. **Verify and Use:**
-   - Open a shoppe with account logged in.
+   - Open shoppe with account logged in.
    - Confirm the extension is working.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -186,7 +186,7 @@ Project Link: [https://github.com/muhdyusuf/shopee-purchase-tracker](https://git
 [license-url]: https://github.com/muhdyusuf/shopee-purchase-tracker/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: ./public/images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB

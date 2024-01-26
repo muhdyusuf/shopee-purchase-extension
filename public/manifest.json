@@ -1,0 +1,19 @@
+{
+    "manifest_version": 3,
+    "name": "Shopee Purchase Tracker",
+    "description": "This extension fetches the items you've bought on Shopee and calculates the total amount spent.",
+    "version": "1.0.0",
+    "icons": {
+        "16": "./images/icon.png",
+        "32": "./images/icon.png",
+        "64": "./images/icon.png"
+    },
+    "action": {
+        "default_title": "Shopee Purchase Tracker",
+        "default_popup": "index.html"
+    },
+    "permissions": ["tabs","scripting","storage","sessions"],
+    "host_permissions": [
+        "https://shopee.com.my/*"
+    ]
+}
