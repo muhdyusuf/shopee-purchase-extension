@@ -15,21 +15,21 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/muhdyusuf/shopee-purchase-extension">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/muhdyusuf/shopee-purchase-tracker">
+    <img src="/dist/assets/icon.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Shopee purchase extension</h3>
+  <h3 align="center">Shopee Purchase Tracker</h3>
 
   <p align="center">
-   <a href="https://github.com/muhdyusuf/shopee-purchase-extension"><strong>Explore the docs »</strong></a>
+   <a href="https://github.com/muhdyusuf/shopee-purchase-tracker"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/muhdyusuf/shopee-purchase-extension">View Demo</a>
+    <a href="https://github.com/muhdyusuf/shopee-purchase-tracker">View Demo</a>
     ·
-    <a href="https://github.com/muhdyusuf/shopee-purchase-extension/issues">Report Bug</a>
+    <a href="https://github.com/muhdyusuf/shopee-purchase-tracker/issues">Report Bug</a>
     ·
-    <a href="https://github.com/muhdyusuf/shopee-purchase-extension/issues">Request Feature</a>
+    <a href="https://github.com/muhdyusuf/shopee-purchase-tracker/issues">Request Feature</a>
   </p>
 </div>
 
@@ -128,8 +128,9 @@ The Shoppe Purchase Tracker is a convenient browser extension designed to stream
 - [ ] Add Sorting function 
     - [ ] Newest asc | desc
     - [ ] Price asc | desx
+- [ ] Publish extension to Chrome Web Store 
 
-See the [open issues](https://github.com/muhdyusuf/shopee-purchase-extension/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/muhdyusuf/shopee-purchase-tracker/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -173,16 +174,16 @@ Project Link: [https://github.com/muhdyusuf/shopee-purchase-tracker](https://git
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/muhdyusuf/shopee-purchase-extension.svg?style=for-the-badge
-[contributors-url]: https://github.com/muhdyusuf/shopee-purchase-extension/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/muhdyusuf/shopee-purchase-extension.svg?style=for-the-badge
-[forks-url]: https://github.com/muhdyusuf/shopee-purchase-extension/network/members
-[stars-shield]: https://img.shields.io/github/stars/muhdyusuf/shopee-purchase-extension.svg?style=for-the-badge
-[stars-url]: https://github.com/muhdyusuf/shopee-purchase-extension/stargazers
-[issues-shield]: https://img.shields.io/github/issues/muhdyusuf/shopee-purchase-extension.svg?style=for-the-badge
-[issues-url]: https://github.com/muhdyusuf/shopee-purchase-extension/issues
-[license-shield]: https://img.shields.io/github/license/muhdyusuf/shopee-purchase-extension.svg?style=for-the-badge
-[license-url]: https://github.com/muhdyusuf/shopee-purchase-extension/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/muhdyusuf/shopee-purchase-tracker.svg?style=for-the-badge
+[contributors-url]: https://github.com/muhdyusuf/shopee-purchase-tracker/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/muhdyusuf/shopee-purchase-tracker.svg?style=for-the-badge
+[forks-url]: https://github.com/muhdyusuf/shopee-purchase-tracker/network/members
+[stars-shield]: https://img.shields.io/github/stars/muhdyusuf/shopee-purchase-tracker.svg?style=for-the-badge
+[stars-url]: https://github.com/muhdyusuf/shopee-purchase-tracker/stargazers
+[issues-shield]: https://img.shields.io/github/issues/muhdyusuf/shopee-purchase-tracker.svg?style=for-the-badge
+[issues-url]: https://github.com/muhdyusuf/shopee-purchase-tracker/issues
+[license-shield]: https://img.shields.io/github/license/muhdyusuf/shopee-purchase-tracker.svg?style=for-the-badge
+[license-url]: https://github.com/muhdyusuf/shopee-purchase-tracker/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
